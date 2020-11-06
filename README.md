@@ -8,7 +8,7 @@
 
 - name: **萝卜头**
 - Phone: **+86 13021543808**
-- Site: **<https://wwwluobotou.net>**
+- Site: **<https://www.luobotou.net>**
 
 <!-- .slide vertical=true -->
 
@@ -24,12 +24,15 @@
 
 <!-- .slide vertical=true -->
 
-School of Data and Computer Science, Sun Yat-sen University, Guangzhou
+推荐项目：
 
-- Bachelor of Computer Science (Supercomputer Class), Sept. 2017 - Jul. 2021(expected)
-  - Principle of Supercomputer
-  - Parallel and Distributed Computing
-  - High Performance Computing
+- 知识分享项目：手把手叫你快速建立和运营知识分享项目。
+  -投入少，风险小，盈利性高；
+  -适合兼职、学生、家庭妇女等各种类型人群。
+  -可赚钱、可引流！
+-萝卜圈)
+  - 萝卜圈招募中
+ 
 
 <!-- .slide -->
 
@@ -37,7 +40,6 @@ School of Data and Computer Science, Sun Yat-sen University, Guangzhou
 
 <!-- .slide vertical=true -->
 
--
 -电商课程：[j更多目录](https://www.luobotou.net/post/1025.html)
   - 电商课程部分目录：
   - 淘_00_0001       电商店群
