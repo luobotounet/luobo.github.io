@@ -6,7 +6,7 @@
 
 ## 联系方式
 
-- Address: **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
+- name: **萝卜头**
 - Phone: **+86 13021543808**
 - Site: **<https://wwwluobotou.net>**
 
@@ -37,8 +37,36 @@ School of Data and Computer Science, Sun Yat-sen University, Guangzhou
 
 <!-- .slide vertical=true -->
 
-- [jekyll-theme-WuK](https://jekyll-theme-WuK.wu-kan.cn/)
-  - 我的个人主页使用的主题样式，也欢迎你用于[搭建自己的页面](https://jekyll-theme-WuK.wu-kan.cn/)~[![Star](https://img.shields.io/github/stars/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io)[![Fork](https://img.shields.io/github/forks/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io/fork)
+-
+-电商课程：[j更多目录](https://www.luobotou.net/post/1025.html)
+  - 电商课程部分目录：
+  - 淘_00_0001       电商店群
+  - 淘_00_0002      奔驰采集玩法
+  - 淘_00_0003      大猫淘差价第六期课程
+  - 淘_00_0004      店铺细分化教程
+  - 淘_00_0005      店群标配软件
+  - 淘_00_0006      店群销售教程
+  - ...
+  - 淘_01_0002    千万级网店运营操盘手养成计划（完结）
+  - 淘_00_0006      店群销售教程
+  - 淘_01_0004  零基础月赚10万的网店秘笈（完结）
+  - 淘_01_0005  淘宝+闲鱼精准引流特训营
+  - ...
+  - 淘_01_0014  大猫淘差价2020版
+  -淘_01_0015  小真电商学院淘宝无货源店群项目
+  - 淘_01_0016  （盗坤）《淘宝内训社》蓝海单类目
+  - 淘_01_0017  全52期，每周1期带你直入直播电商核心真相，破除盈利瓶颈（更新中）
+  - 淘_01_0018  -火焱社·五个无货源项目·月入10万+
+  - 淘_01_0019  【完结】三八哥·1688店群无货源项目
+  - 淘_01_0020  .从运营到店长进阶36讲（完结）
+  - 淘_01_0021   强大大无货源店群食品课程+月入2W淘宝店群吃佣金最新教程（视频+文档）
+  - 淘_01_0022   2020独家蓝海 淘宝店群
+  - 淘_01_0023   兽爷淘宝c店蓝海讲解
+  - ...
+- 跨境_01_0001  亚马逊趋势打法高阶课（完结）
+-跨境_01_0002  东南亚跨境电商SHOPEE（虾皮）（完结）
+- ...
+
 
 <!-- .slide -->
 
@@ -76,6 +104,8 @@ School of Data and Computer Science, Sun Yat-sen University, Guangzhou
 - **Git**, Familiar
 - **VSCode**, Familiar
 
+<!-- .slide -->
+
 ## 职称考试
 
 <!-- .slide vertical=true -->
@@ -85,6 +115,7 @@ School of Data and Computer Science, Sun Yat-sen University, Guangzhou
   - **MPI**, Familiar&Learning
   - **CUDA**, Learning
 - **Python**, Familiar
+<!-- .slide -->
 
 ## 网赚项目
 
@@ -95,6 +126,7 @@ School of Data and Computer Science, Sun Yat-sen University, Guangzhou
 - **Linux**, Familiar&Learning
 - **Git**, Familiar
 - **VSCode**, Familiar
+<!-- .slide -->
 
 
 ## 知识分享
@@ -131,8 +163,4 @@ TBD
 - [苏打粉](https://wu-kan.cn/_posts/2019-07-18-%E8%BF%99%E4%B8%80%E5%B9%B4%E7%9A%84%E4%B8%80%E7%82%B9%E6%84%9F%E6%83%B3/)
 - [小吃王](https://wu-kan.cn/_posts/2019-07-18-%E8%BF%99%E4%B8%80%E5%B9%B4%E7%9A%84%E4%B8%80%E7%82%B9%E6%84%9F%E6%83%B3/)
 
-<!-- .slide vertical=true -->
 
-- [再见，算法竞赛！](https://wu-kan.cn/_posts/2019-11-04-%E5%86%8D%E8%A7%81-%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B/)
-- [Markdown 写作心得](https://wu-kan.cn/_posts/2020-01-18-Markdown%E5%86%99%E4%BD%9C%E5%BF%83%E5%BE%97/)
-- [今日此时所想之事](https://wu-kan.cn/_posts/2020-01-24-%E4%BB%8A%E6%97%A5%E6%AD%A4%E6%97%B6%E6%89%80%E6%83%B3%E4%B9%8B%E4%BA%8B/)
